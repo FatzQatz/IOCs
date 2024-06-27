@@ -1,0 +1,19 @@
+Indicators of Compromise (IOCs)
+
+Hashes
+dcc2b331d3f83771a48bf66b0845fcf865551197a05ab6ba57996d8a7082ef71	List of Event Organizers....bat
+5b279e48eed115eccff837a37aa81217c8f9d02340e53922b68c8600d9e26cba	update1.bat
+4ae7c33fdeaa89d78293ac4b43c4ca8a32bc57a7b7fc70674b10ff303c55a987	Document.zip
+4e143e11b8f4c5ec02c08912b5de0a42b8f394c4fcfbecb0219cfd3259f4f6da	sim.py
+
+Network
+hxxps://github[.]com/s123s1/s/raw/main/update1.bat
+hxxps://github[.]com/s123s1/s/raw/main/Document.zip
+hxxps://api.telegram[.]org/bot6878187208/sendDocument
+
+File Path
+%USERPROFILE%\AppData\Roaming\id.txt
+%USERPROFILE%\AppData\Roaming\number.txt
+
+Persistence
+%APPDAT%%\Microsoft\Windows\Start Menu\Programs\Startup\WindowsSecure.bat
