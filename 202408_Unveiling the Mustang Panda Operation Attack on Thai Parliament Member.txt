@@ -6,6 +6,8 @@ Hashes
 107ba73ae05ec6ba6d814665923191f14757015557eeeff16206cc957da29be3	GeekerPDF.exe
 0bd114fecfd3c09820fa013d8cd8aadedee69906b6f81a2e827bba68ddf1023b	AmindPDFCore.dll
 07c3b7e553bf4a99ca419a83fc57f0875419ffad695c7901d74dd05b9e03fcf9	files.docx
+f00e5ff2dc47a7625c86ac89784d5aa26b210a8437b9fb150b66eb3798b3c1d6	Interview with Surachet Praweewongwut.rar
+107ba73ae05ec6ba6d814665923191f14757015557eeeff16206cc957da29be3	a0.Guidelines for Driving Soft Power to Promote Thailand's Image and Competitiveness on the World Stage.pdf.exe
 
 Network
 lyjxq3[.]com
