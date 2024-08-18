@@ -2,13 +2,9 @@ Indicators of Compromise (IOCs)
 
 Hashes
 21321fbdc67896cc8e41cbf2c4c8430ecf5992040491fc477864c5363e3ae3d8	Topics of Interview for Surachet Pravinvongvth (New).rar
-
 8b31cb0113424b2b158713cd29c9b123c97728f11da08cc21040012da0de2b35	Topics of Interview for Surachet Pravinvongvth (New).word .exe
-
 107ba73ae05ec6ba6d814665923191f14757015557eeeff16206cc957da29be3	GeekerPDF.exe
-
 0bd114fecfd3c09820fa013d8cd8aadedee69906b6f81a2e827bba68ddf1023b	AmindPDFCore.dll
-
 07c3b7e553bf4a99ca419a83fc57f0875419ffad695c7901d74dd05b9e03fcf9	files.docx
 
 Network
